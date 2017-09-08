@@ -1,2 +1,2 @@
 # BetterStaticData
-Better Static Data
+Hosts supplementary config/data files for BetterStaticData
