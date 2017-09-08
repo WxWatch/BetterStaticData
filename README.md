@@ -1,0 +1,2 @@
+# BetterStaticData
+Better Static Data
