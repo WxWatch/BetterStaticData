@@ -1,3 +1,10 @@
 {
-    "title": "what is this"
+    "title": "what is this",
+    skins: [
+        {
+            "num": 999,
+            "id": 9827343,
+            "name": "New Skin Ahri"
+        }
+    ]
 }
